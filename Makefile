@@ -1,6 +1,6 @@
 SHELL := /bin/bash # needed for prettyurls
 BUNDLE := bundle
-YARN := yarn
+YARN := yarnpkg
 ASSETS_DIR = assets
 VENDOR_DIR = $(ASSETS_DIR)/vendor/
 JEKYLL := $(BUNDLE) exec jekyll
