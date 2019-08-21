@@ -5,6 +5,8 @@ main_nav:
       home: true
     - url: "/en/subcategory1/"
       title: "Subcategory"
+    - url: "/en/hopsa.html"
+      title: "Hopsa"
   es:
     - url: "/es/"
       title: "Inicio"
